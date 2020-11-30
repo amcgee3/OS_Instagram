@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/amcgee3/OS_Instagram/blob/main/Instagram_Week2.zip'/>
+<img src='https://github.com/amcgee3/OS_Instagram/blob/main/Instagram_Week2.gif'/>
 
 # Parstagram - Part I
 
